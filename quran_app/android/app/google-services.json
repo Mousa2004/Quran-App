@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391192925820",
+    "project_id": "quranapp-a71b2",
+    "storage_bucket": "quranapp-a71b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391192925820:android:2a4fb41968b07cf9d55bf9",
+        "android_client_info": {
+          "package_name": "com.example.quran_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNPW7n6mwSVXqGmeItLMCYDOZIWGFtVUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
